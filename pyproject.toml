@@ -1,6 +1,6 @@
 [project]
 name = "simple-async-sqs"
-version = "0.1.1"
+version = "0.2.0"
 description = "Simple async SQS client"
 readme = "README.md"
 authors = [{ email = "jamie.cheng.chang@gmail.com" }]
