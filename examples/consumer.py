@@ -1,6 +1,6 @@
 import asyncio
 
-from simple_sqs.queue_client import QueueClient
+from simple_async_sqs.queue_client import QueueClient
 
 
 async def process(client: QueueClient):

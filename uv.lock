@@ -2052,8 +2052,8 @@ wheels = [
 ]
 
 [[package]]
-name = "simple-sqs"
-version = "0.1.0"
+name = "simple-async-sqs"
+version = "0.1.1"
 source = { editable = "." }
 dependencies = [
     { name = "aiobotocore" },
